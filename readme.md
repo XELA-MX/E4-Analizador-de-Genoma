@@ -247,7 +247,8 @@ La ejecución del programa se realiza con dos archivos de entrada, por ejemplo: 
 > nvcc -o detectar_mutaciones main.cu
 > ./detectar_mutaciones g1.txt genoma.txt
 
-
+> [!WARNING]  
+> Por limitaciones de github y el tamaño de los archivos (más de 100mb) g1.txt y genoma.txt fueron movidos al siguiente drive: [Link al drive](https://drive.google.com/drive/folders/1XmUEJO-0LU1OERmWRpafIOffZhYCkaaU?usp=sharing)
 
 # Bibliografías
 
